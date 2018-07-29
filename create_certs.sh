@@ -111,3 +111,4 @@ EOL
 
 
 echo "SUCCESS! You can import your certificate_$file_suffix.pfx file into your browser. Insert the content of webid_cert_$file_suffix.txt into your WebId document as shown in the documentation at https://github.com/dbpedia/webid."
+e
